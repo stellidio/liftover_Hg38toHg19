@@ -1,0 +1,8 @@
+Chromosome,Position_GRCh38
+chr12,g.21176804A>G
+chr12,g.21239113A>G
+chr6,g.18138997C>T
+chr6,g.18130762C>T
+chr7,g.99652613G>T
+chr10,g.94842866A>G
+chr22,g.42129130C>G
